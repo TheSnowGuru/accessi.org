@@ -33,7 +33,7 @@ You can configure the equally.ai button and interface. To configure the accessiB
 3. Search for equally.ai.
 4. Click on **Settings**.
 5. Fill in the screen fields listed below according to your needs and click on **Save**.
-   - **Accessibility Statement Link**: as an accessiBe client, you get a statement indicating remediations your website has undergone to achieve compliance. When this field is left blank, this default statement is shown in the component. You can either edit accessiBe’s statement with your information (see [this accessiBe documentation](https://accessibe.com/support/account/how-can-i-edit-website-owner-information-for-the-accessibility-statement) on learning how to edit it) or insert a link to another published statement.
+   - **Accessibility Statement Link**: as an accessiBe client, you get a statement indicating remediations your website has undergone to achieve compliance. When this field is left blank, this default statement is shown in the component. You can either edit accessiBe’s statement with your information  on learning how to edit it) or insert a link to another published statement.
    - **Feedback Form Link**: add a feedback form.
    - **Interface Footer**: present your brand/company in the footer.
    - **Interface Language**: choose the different language options available for your interface. The default option is English.
