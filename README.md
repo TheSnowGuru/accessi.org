@@ -14,9 +14,9 @@ To install the accessi.org service:
 
 
 You will receive an email with accessablity issues that has to be treated upon your webpage.
-To setup your automated solution account, please go to https://equally.ai, sign up to your equally.ai account, and add your website URL to the admin panel , then you can download the JS code to add equally.ai web accessablity automated solution. 
+To setup your automated solution account, please go to https://bestwebsiteaccessibility.com/, and find the best offer for your digital asset , then you can download the JS code to add equally.ai web accessablity automated solution. 
 
-> ⚠️ _You need to have an equally.ai paid account to be able to use the app
+
 
 # equally.ai
 
