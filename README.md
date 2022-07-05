@@ -38,6 +38,7 @@ You can uninstall and/or delete the equally.ai app from your site. When doing so
 - **If the app is uninstalled without being deleted**: the app will be removed from the workspace, but all saved settings will remain protected, meaning that if you reinstall, all previous settings will be applied.
 - **If the app is deleted**: all saved configurations will be deleted from all workspaces, and the app will also be uninstalled.
 
+![image](https://user-images.githubusercontent.com/5313475/177286122-d77a65f7-92e5-4944-9f15-ccb0e263762d.png)
 
 
 
