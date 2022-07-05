@@ -14,9 +14,15 @@ To install the accessi.org service:
 
 
 You will receive an email with accessablity issues that has to be treated upon your webpage.
-To setup your automated solution account, please go to https://bestwebsiteaccessibility.com/, and find the best offer for your digital asset , then you can download the JS code to add equally.ai web accessablity automated solution. 
+To setup your automated solution account, please check the best [web accessibilty](https://bestwebsiteaccessibility.com/) site, and find the best offer for your digital asset , then you can download the JS code to add equally.ai web accessablity automated solution. 
 
 
+
+# accessiBe
+
+This app pixel code to your website to show a component in the storefront, enabling users to modify your site’s UI, design, and readability to meet their individual needs following ADA and WCAG accessibility guidelines.
+
+After installing and adding your VTEX store URL on the accessiBe website, the accessibility button will be available on your store with the default configuration.
 
 # equally.ai
 
