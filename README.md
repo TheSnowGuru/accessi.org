@@ -2,19 +2,19 @@
 Web accessibility project to check your website accessibility issues.
 
 
-## Getting started with checking accessablity issues
+## Getting started with checking accessibility issues
 
 To install the accessi.org service:
 
 1. Click on the URL [accessi.org](accessi.org)
 2. Enter your domain in the search feild.
 3. Click on **Search**.
-4. Enter your details to get a detailed accessablity report
+4. Enter your details to get a detailed accessibility report
 5. Click on **CONFIRM**.
 
 
-You will receive an email with accessablity issues that has to be treated upon your webpage.
-To setup your automated solution account, please check the best [web accessibilty](https://bestwebsiteaccessibility.com/) site, and find the best offer for your digital asset , then you can download the JS code to add equally.ai web accessablity automated solution. 
+You will receive an email with accessibility issues that has to be treated upon your webpage.
+To setup your automated solution account, please check the best [web accessibilty](https://bestwebsiteaccessibility.com/) site, and find the best offer for your digital asset , then you can download the JS code to add equally.ai web accessibility automated solution. 
 
 
 
