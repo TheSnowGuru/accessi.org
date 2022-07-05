@@ -6,7 +6,7 @@ Web accessibility project to check your website accessibility issues.
 
 To install the accessi.org service:
 
-1. Open the website accessi.org.
+1. Click on the URL [accessi.org](accessi.org)
 2. Enter your domain in the search feild.
 3. Click on **Search**.
 4. Enter your details to get a detailed accessablity report
